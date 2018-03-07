@@ -42,4 +42,3 @@ app.post('/webhook/', (req, res) => {
 });
 //const token = process.env.FB_PAGE_ACCESS_TOKEN
 const token = 'AAMoJ7gecDIBABaW6Ix6AuCbg1MizErOtEffW7Lqin7ENbGzoxnpZBmx6LiVVru0cATKxa0BlSJxOZCZAvIglRXbQlvmbMcIUUZAkgAh0qufdBUda2l2FhoHD5ie3sv0w8wzrJ1q3L1V2UgfGLGJR7FR5JxetMZB0ZBkCesZCD6SgZDZD';
-
